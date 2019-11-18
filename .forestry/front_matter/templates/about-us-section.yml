@@ -1,0 +1,13 @@
+---
+label: About us section
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: page_name
+  label: page_name
